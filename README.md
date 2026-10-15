@@ -1,4 +1,4 @@
-# Virtual-Wafer-Fabrication
+# Virtual Wafer Fabrication
 
 ## Overview
 
